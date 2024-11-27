@@ -1,4 +1,6 @@
 G - Stashing ÃÂ© o local onde estamos a trabalhar no codigo, sem precisar dar commit, e mesmo assim ele fica salvo
 Podemos usar comno rascunho no local e enviar para o repositorio remoto somente quando tiver pronto, ou apaga lo, usado bastante para fazer testes sem afetar o repositorio remoto
 
-H - o comando é o git rm
+H - o comando é git rm
+
+J - Exclui arquivos do stash 
